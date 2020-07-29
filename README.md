@@ -10,8 +10,7 @@ The program takes a simple encoding of a snake:
 
 And generates instructions how to turn it into a cube:
 
-<img src="./pics/green_cube.jpg" alt="drawing" title="Green Snake" width="200"/>
-<img src="./pics/blue_cube.jpg" alt="drawing" title="Blue Snake" width="200"/>
+<img src="./pics/green_cube.jpg" alt="drawing" title="Green Snake" width="200"/> <img src="./pics/blue_cube.jpg" alt="drawing" title="Blue Snake" width="200"/>
 
 ## Requirement~s~:
 - numpy, any version will do
