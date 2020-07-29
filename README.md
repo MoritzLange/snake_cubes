@@ -6,11 +6,11 @@ I wrote it because I was too impatient and lazy to solve a snake cube I had lyin
 
 The program takes a simple encoding of a snake:
 
-<img src="./pics/green_snake.jpg" alt="drawing" title="Green Snake" width="200"/> <img src="./pics/blue_snake.jpg" alt="drawing" title="Blue Snake" width="200"/>
+<img src="./images/green_snake.jpg" alt="drawing" title="Green Snake" width="200"/> <img src="./images/blue_snake.jpg" alt="drawing" title="Blue Snake" width="200"/>
 
 And generates instructions how to turn it into a cube:
 
-<img src="./pics/green_cube.jpg" alt="drawing" title="Green Snake" width="200"/> <img src="./pics/blue_cube.jpg" alt="drawing" title="Blue Snake" width="200"/>
+<img src="./images/green_cube.jpg" alt="drawing" title="Green Snake" width="200"/> <img src="./images/blue_cube.jpg" alt="drawing" title="Blue Snake" width="200"/>
 
 ## Requirement~s~:
 - numpy, any version will do
