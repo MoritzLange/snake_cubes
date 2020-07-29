@@ -1,6 +1,6 @@
 # Snake cube solver
 
-This is a short jupyter notebook in Python 3 that solves 3x3x3 snake cubes.
+This is a short jupyter notebook in Python 3 that solves 3x3x3 snake cube puzzles.
 
 I wrote it because I was too impatient and lazy to solve a snake cube I had lying around, and yet wanted to store the thing in the most space efficient way - so it had to become a proper cube.
 
